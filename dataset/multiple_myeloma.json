@@ -8,7 +8,7 @@
 		{"type": "id", "index": 0, "name": "Patient Number"}
 		],
 	"sets": [
-		{ "format": "binary", "start": 0, "end": 77 }
+		{ "format": "binary", "start": 0, "end": 78 }
 	],
     "author": "Sikandar Ailawadhi"
 }
