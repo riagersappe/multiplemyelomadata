@@ -1,0 +1,11 @@
+{
+	"file": "dataset/binary_data.csv",
+	"name": "Multiple Myeloma",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 77 }
+	],
+    "author": "Sikandar Ailawadhi"
+}
