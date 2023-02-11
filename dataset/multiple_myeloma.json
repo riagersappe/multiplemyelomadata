@@ -1,5 +1,5 @@
 {
-	"file": "dataset/binary_data.csv",
+	"file": "https://raw.githubusercontent.com/riagersappe/multiplemyelomadata/main/dataset/binary_data.csv",
 	"name": "Multiple Myeloma",
 	"header": 0,
 	"separator": ";",
