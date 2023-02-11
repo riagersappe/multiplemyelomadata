@@ -2,7 +2,7 @@
 	"file": "riagersappe.github.io/multiplemyelomadata/dataset/binary_data.csv",
 	"name": "Multiple Myeloma",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta" : [
 		{"type": "id", "index": 0, "name": "Patient Number"}
